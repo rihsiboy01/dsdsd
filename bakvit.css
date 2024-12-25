@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+}
+.n{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.k{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h{
+    display: flex;
+    align-items: center;
+    
+}
+.darkbg{
+    background-image: url(Vector@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+}
+
+.whitebg{
+    background-image: url(Vector@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+}
+.yigirma{
+    background-color: black;
+    transition: 1s;
+
+}
+body{
+    transition: 1s;
+}
+.iki{
+    margin-top: 220px;
+}
+.j{
+    margin-top: 220px;
+}
+h3{
+    margin-left: 750px;
+}
+.onbir{
+    color: white;
+}

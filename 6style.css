@@ -1,0 +1,29 @@
+body{
+    background-image: url(./383e609a-3cd3-4f2b-889b-f83802d91fc3.webp);
+    block-size: 100%;
+}
+h1{
+    font-size: 200px;
+    color: yellow;
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+        margin: 0 auto;
+        margin-left: 100px;
+}
+button{
+width: 500px;
+height: 100px;
+background-color: chartreuse;
+border-radius: 50px;
+margin-left: 600px;
+margin-top: 100px;
+font-size: 50px;
+}
+button:hover{
+    background-color: chocolate;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    
+}
